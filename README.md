@@ -1,2 +1,2 @@
 # DemoApp
-Bu dastur YouTube darslari uchun ishlab chiqoldi
+Bu dastur YouTube darslari uchun ishlab chiqildi
